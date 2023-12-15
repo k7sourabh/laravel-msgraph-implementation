@@ -1,2 +1,1 @@
-# laravel-msgraph-implementation
-Laravel MSGraph implementation
+# graph-api-test
